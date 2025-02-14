@@ -1,4 +1,4 @@
 # belajar-berkolaborasi
 **Muhammad Isnani Kusuma**<br>
-**UMS**
-Sekarang belajar GitHub ynag menyenangkan<br>
+**UMS**<br>
+Sekarang belajar GitHub ynag menyenangkan
