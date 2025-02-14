@@ -1,4 +1,2 @@
 # belajar-berkolaborasi
-satu
-dua
-tiga
+Muhammad Isnani Kusuma
