@@ -1,3 +1,3 @@
 # belajar-berkolaborasi
-Muhammad Isnani Kusuma
-UMS
+**Muhammad Isnani Kusuma**<br>
+**UMS**
